@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\user\\desktop\\patika backend week12 codefirstrelation\\codefirstrelation\\data\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\data\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\user\\desktop\\patika backend week12 codefirstrelation\\codefirstrelation\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\user\\desktop\\patika backend week12 codefirstrelation\\codefirstrelation\\data\\patikaseconddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\data\\patikaseconddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\user\\desktop\\patika backend week12 codefirstrelation\\codefirstrelation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\user\\desktop\\patika backend week12 codefirstrelation\\codefirstrelation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\user\\desktop\\patika backend week12 codefirstrelation\\codefirstrelation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\user\\desktop\\patika backend week12 codefirstrelation\\codefirstrelation\\codefirstrelation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\codefirstrelation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\user\\desktop\\patika backend week12 codefirstrelation\\codefirstrelation\\migrations\\20241220212002_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5791FA90-9F68-4E7D-8B5D-717DEC4F4C98}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\migrations\\20241220212002_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CodeFirstRelation.http",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\CodeFirstRelation.http",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\CodeFirstRelation.http",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\CodeFirstRelation.http",
+              "RelativeToolTip": "CodeFirstRelation\\CodeFirstRelation.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-20T21:26:12.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241220212002_Second.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Migrations\\20241220212002_Second.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Migrations\\20241220212002_Second.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Migrations\\20241220212002_Second.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Migrations\\20241220212002_Second.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:20:02.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Program.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:16:27.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\appsettings.json",
+              "RelativeToolTip": "CodeFirstRelation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T21:16:58.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:16:45.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatikaSecondDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Data\\PatikaSecondDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Data\\PatikaSecondDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Data\\PatikaSecondDbContext.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Data\\PatikaSecondDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:15:03.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Data\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Data\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Data\\Entities\\Post.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Data\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:14:35.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week12 CodeFirstRelation\\CodeFirstRelation\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:14:02.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
